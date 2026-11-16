@@ -1,0 +1,4 @@
+:root{--bg:#0e1430;--fg:#f4ecdc;--gold:#e8c480;--muted:#b9b0a0}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.7 Georgia,serif}
+main{max-width:720px;margin:0 auto;padding:48px 16px}h1{color:var(--gold);font-weight:normal;font-size:2.2em;margin:0 0 .3em}
+h2{color:var(--gold);font-weight:normal;margin-top:1.6em}a{color:var(--gold)}nav{margin-top:40px;color:var(--muted);font-size:.9em}
